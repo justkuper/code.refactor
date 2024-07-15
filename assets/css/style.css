@@ -40,7 +40,7 @@ header div ul {
 }
 
 header div ul li {
-    display: inline-block;
+    display: flex;
     margin-left: 25px;
 }
 
